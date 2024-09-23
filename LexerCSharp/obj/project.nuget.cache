@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ea4kxZIc3c5ks/9fc4d2JZZ2VNei/gb1ayYBNw4wcRT2JI/EFSGrwgzHfUW9zKJL3rwFwg9jwGoZZUSLm1GGWw==",
+  "dgSpecHash": "VnVbszjTVZNewIDbDj1GpdPzS944UFGA9fgUT9Ejo0N8vAcDbwWDXeF7DA2ICXkJkINRbEaDoaV1oHZt32qCQA==",
   "success": true,
-  "projectFilePath": "/Users/kieran/Documents/Code/LexerCSharp/LexerCSharp.csproj",
+  "projectFilePath": "/Users/kieran/Documents/Code/Lexers/LexerCSharp/LexerCSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

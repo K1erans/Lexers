@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kieran/Documents/Code/LexerCSharp/LexerCSharp.csproj": {}
+    "/Users/kieran/Documents/Code/Lexers/LexerCSharp/LexerCSharp.csproj": {}
   },
   "projects": {
-    "/Users/kieran/Documents/Code/LexerCSharp/LexerCSharp.csproj": {
+    "/Users/kieran/Documents/Code/Lexers/LexerCSharp/LexerCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kieran/Documents/Code/LexerCSharp/LexerCSharp.csproj",
+        "projectUniqueName": "/Users/kieran/Documents/Code/Lexers/LexerCSharp/LexerCSharp.csproj",
         "projectName": "LexerCSharp",
-        "projectPath": "/Users/kieran/Documents/Code/LexerCSharp/LexerCSharp.csproj",
+        "projectPath": "/Users/kieran/Documents/Code/Lexers/LexerCSharp/LexerCSharp.csproj",
         "packagesPath": "/Users/kieran/.nuget/packages/",
-        "outputPath": "/Users/kieran/Documents/Code/LexerCSharp/obj/",
+        "outputPath": "/Users/kieran/Documents/Code/Lexers/LexerCSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kieran/.nuget/NuGet/NuGet.Config"

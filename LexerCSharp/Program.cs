@@ -1,2 +1,28 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace LexerCSharp
+{
+    public class Lexer
+    {
+         string input;
+         int Position;
+         int ReadPosition;
+         char CurrentChar;
+        public Lexer(string Input)
+        {
+            input = Input;
+            Position = 0;
+            ReadPosition = 0;
+            CurrentChar = '\0';
+        }
+
+        private void ReadChar()
+        {
+             
+        }
+
+        static void Main(string[] args)
+        {
+        }
+    }
+}
