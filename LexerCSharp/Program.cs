@@ -18,7 +18,10 @@ namespace LexerCSharp
 
         private void ReadChar()
         {
-             
+            while(ReadPosition != input.Length)
+            {
+
+            } 
         }
 
         static void Main(string[] args)
